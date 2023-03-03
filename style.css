@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+body{
+    background-color: #ffd5d1;
+}
+
+.big-container{
+    margin-top: 50px;
+    margin-left: 34%;
+    display: block;
+    background-color: mistyrose;
+    width: 500px;
+    height: 600px;
+    box-shadow: 10px 10px lightgray;
+    border-radius: 30px;
+    border-style: dashed;
+}
+
+.text-container{
+    background-clip: content-box;
+    margin-top: 40px;
+    width: 100%;
+    height: 385px;
+}
+.top-text{
+    padding-left: 65px;
+    font-family: Roboto Mono, sans-serif;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    border-top: 5px double black;
+    border-bottom: 5px double black;
+}
+.second-text{
+    line-height: 30px;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: Josefin Sans, sans-serif;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+.love-you{
+    padding-left: 90px;
+    font-family: Josefin Sans, sans-serif;
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+.love-me-back{
+    padding-top: 25px;
+    padding-left: 175px;
+    font-family: Josefin Sans, sans-serif;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+.yes{
+    margin-left: 175px;
+    position: absolute;
+    background-color: #D1FBFF;
+    padding: 10px;
+    height: 40px;
+    width: 150px;
+    font-family: Lobster, sans-serif;
+    font-size: 18px;
+}
+#btn{
+    margin-top: 70px;
+    transition: .5s;
+    margin-left: 175px;
+    position: absolute;
+    background-color: #D1FBFF;
+    padding: 10px;
+    height: 40px;
+    width: 150px;
+    font-family: Lobster, sans-serif;
+    font-size: 18px;
+    z-index: 1;
+}
+
+
+
+
+
